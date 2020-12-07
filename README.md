@@ -48,7 +48,7 @@
 
 <p align="center">
 <a href="https://www.sondosissa.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sondosissa.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/sondos-issa-b4997a190/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sondos Issa%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/sondos-issa-b4997a190/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sondos Issa%20Sondos%20Issa-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/sondosissa2/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sondosissa2__-blue?style=flat-square&logo=instagram"></a>
 <a href="Sondosissa18@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sondosissa18@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
