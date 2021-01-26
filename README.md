@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;Passionate and self-motivated Junior Web Developer and Mathematician with hands-on project experience functioning remotely with a national team. Area of focus on Django, Python, SQL, Javascript, Html. </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at kenzie Academy and studied Mathematics at Indiana University Northwest.
+- 🎓 &nbsp; Studied Computer Science at kenzie Academy and studied Mathematics at Indiana University Northwest.
 - 💼 &nbsp; Currently Working as a Teacher.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
