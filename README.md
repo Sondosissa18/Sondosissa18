@@ -1,7 +1,6 @@
 <h2> Hey there! I'm Sondos Issa.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;Passionate and self-motivated Junior Web Developer and Mathematician with hands-on project experience functioning remotely with a national team. Area of focus on Django, Python, SQL, Javascript, Html.
-. </h3>
+<h3> 👨🏻‍💻 &nbsp;Passionate and self-motivated Junior Web Developer and Mathematician with hands-on project experience functioning remotely with a national team. Area of focus on Django, Python, SQL, Javascript, Html. </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at kenzie Academy and studied Mathematics at Indiana University Northwest.
